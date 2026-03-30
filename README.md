@@ -1,7 +1,6 @@
 # 🐦 Flappy Bird - Construct 3 Edition
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Construct 3](https://img.shields.io/badge/Engine-Construct%203-green)
+![Construct 3](https://img.shields.io/badge/Made%20with-Construct%203-blue?logo=construct3)
 ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-orange)
 ![Published on Itch.io](https://img.shields.io/badge/Published%20on-Itch.io-FA5C5C?style=flat&logo=itchdotio)
 
@@ -9,7 +8,7 @@ Replikasi game arkade klasik **Flappy Bird** yang dibuat menggunakan engine **Co
 
 ## 🎮 Play Now
 Kamu bisa langsung memainkan game ini secara gratis melalui halaman itch.io saya:
-👉 **[Mainkan di itch.io](https://username-kamu.itch.io/nama-game-kamu)**
+👉 **[Mainkan di itch.io]((https://zhan01.itch.io/flappy-bird)**
 
 ## ✨ Fitur Utama
 - **Mekanik Flap:** Kontrol satu tombol (klik/tap) yang responsif.
